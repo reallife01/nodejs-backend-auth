@@ -1,0 +1,90 @@
+2023-26-18		11:26:57	 306b2436-2272-4d55-bbb0-f8bb390cab92	 Error, Not allowed by CORS 
+2023-26-18		11:26:57	 f53b4ec4-7d8b-497b-a924-b6aa3252d1c8	 Error, Not allowed by CORS 
+2023-27-18		11:27:37	 b1fe20bf-b13d-46e5-9462-b525de72f4e6	 Error, Not allowed by CORS 
+2023-27-18		11:27:37	 041907a8-b84a-46d7-9735-753f1d724f73	 Error, Not allowed by CORS 
+
+2023-44-18		11:44:11	 284c1d34-4036-4674-98a3-1a25ddb76598	 Error, Not allowed by CORS 
+2023-44-18		11:44:11	 c12b7e06-09b5-4ae7-957b-6c9a960e5901	 Error, Not allowed by CORS 
+2023-46-18		12:46:37	 31a042ed-a722-4411-9639-0e2ca0985625	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\test.html' 
+2023-47-18		12:47:33	 0602d305-616e-4934-9a96-0375788935f0	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\test.html' 
+2023-47-18		12:47:37	 77310a0a-7453-4863-afa7-df5def19418d	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\test.html' 
+2023-47-18		12:47:44	 353e6f0d-fe3d-46b2-8463-34d4f205a572	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\index.html' 
+2023-47-18		12:47:47	 b50317a8-4584-454d-b3d0-19ddd0bc2c73	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\index.html' 
+2023-48-18		12:48:06	 7a3d6a01-ade0-403a-8bc1-e277206482f8	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\index.html' 
+2023-48-18		12:48:10	 f26a8551-151f-42cd-853d-f62fcc79b0f8	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\Node-Js-Course\router\views\subdir\index.html' 
+2023-57-18		15:57:29	 f14274b6-2a6a-4518-933d-f80c00a0e34d	 SyntaxError, Unexpected non-whitespace character after JSON at position 81 
+2023-33-23		09:33:01	 458d7520-e7eb-40da-a172-d039a76ec428	 SyntaxError, Expected ':' after property name in JSON at position 13 
+2023-28-23		15:28:43	 cb7330a9-b062-46d3-a624-4ee1238aea35	 SyntaxError, Expected double-quoted property name in JSON at position 63 
+2023-30-23		15:30:58	 951981f7-c8d5-49b2-936c-e70750f105be	 SyntaxError, Expected double-quoted property name in JSON at position 68 
+2023-32-23		15:32:03	 bec4c4e7-719c-4285-9385-8f4dab5fb98c	 SyntaxError, Expected double-quoted property name in JSON at position 53 
+2023-32-23		15:32:28	 23689da3-ac9b-4c2b-b4f3-4470efedbbed	 SyntaxError, Expected double-quoted property name in JSON at position 53 
+2023-45-24		12:45:48	 1f9a7967-d2ed-4eb3-b892-3a9745fdafaf	 SyntaxError, Unexpected token 'e', "#" is not valid JSON 
+2023-59-24		12:59:03	 6c217276-7377-4063-9f4f-592d5523e1f9	 TypeError, req.headers is not a function 
+2023-00-24		13:00:05	 61b5a5a8-7671-4302-b2f2-ecae534ad5e1	 TypeError, req.headers is not a function 
+2023-01-24		13:01:49	 5e5e35d2-15f8-4490-af45-29b360c61e43	 TypeError, req.headers is not a function 
+2023-59-25		09:59:10	 ccefccbd-e575-477f-9258-0517e0bd5d6c	 TypeError, Cannot read properties of undefined (reading 'jwt') 
+2023-37-26		08:37:37	 f334c80e-ea62-4dc6-974a-c59e06624642	 ReferenceError, refreshToken is not defined 
+2023-37-26		08:37:42	 e3c34178-6356-466b-9015-d592e92eec89	 ReferenceError, refreshToken is not defined 
+2023-37-26		08:37:43	 484706a6-2dcb-414d-b9ff-21c79c1b9a95	 ReferenceError, refreshToken is not defined 
+2023-37-26		08:37:45	 3c717abc-3d72-4f44-b054-b9d6df33640f	 ReferenceError, refreshToken is not defined 
+2023-37-26		08:37:46	 84ecbaae-f697-4378-994c-2497621dde67	 ReferenceError, refreshToken is not defined 
+2023-37-26		08:37:47	 7301f76d-0dba-42bc-bc76-8259a5238796	 ReferenceError, refreshToken is not defined 
+2023-38-26		08:38:14	 dcda6918-32aa-43a9-9a0a-48897e45fe83	 ReferenceError, refreshToken is not defined 
+2023-42-26		08:42:16	 8128f008-61b8-46d5-8f99-8877e7f44390	 ReferenceError, refreshToken is not defined 
+2023-42-26		08:42:18	 c023df50-ef59-4f48-b659-b5766796b2a1	 ReferenceError, refreshToken is not defined 
+2023-42-26		08:42:18	 41cede74-51f9-4561-8e90-00d00381e260	 ReferenceError, refreshToken is not defined 
+2023-12-26		09:12:01	 67cfaff4-7fe4-44e9-a8a4-863748f776df	 ReferenceError, refreshToken is not defined 
+2023-12-26		09:12:03	 26949f49-c291-45a8-b4c2-acb41c779333	 ReferenceError, refreshToken is not defined 
+2023-13-26		09:13:37	 84b523af-9042-4102-854f-82f73efe348b	 ReferenceError, refreshToken is not defined 
+2023-13-26		09:13:38	 1c165348-9264-4d72-aa75-314f71b41c55	 ReferenceError, refreshToken is not defined 
+2023-13-26		09:13:39	 e7394d87-782f-44a8-b1e4-9223f2e58c5c	 ReferenceError, refreshToken is not defined 
+2023-13-26		09:13:40	 9037f3a5-3ce2-449e-93c8-260c62799dd1	 ReferenceError, refreshToken is not defined 
+2023-13-26		09:13:41	 f8d628a6-8068-4d23-b52a-292ae137c4f9	 ReferenceError, refreshToken is not defined 
+2023-13-26		09:13:42	 660ae966-e5f3-4f61-b36f-77598d689b93	 ReferenceError, refreshToken is not defined 
+2023-27-26		09:27:09	 1097b59f-9d78-4b46-ba64-ba0354af1396	 ReferenceError, refreshToken is not defined 
+2023-27-26		09:27:11	 2dd781fa-e237-432d-a6db-a6e6cc00d64b	 ReferenceError, refreshToken is not defined 
+2023-27-26		09:27:12	 e1d9686a-b2f1-4660-b22f-49b631df4f9d	 ReferenceError, refreshToken is not defined 
+2023-16-26		11:16:26	 53fa8422-e4ef-4383-88d8-abfdf601065e	 ReferenceError, refreshToken is not defined 
+2023-16-26		11:16:27	 ce0a0496-dfb2-472c-94ef-4d90ac2fa8a6	 ReferenceError, refreshToken is not defined 
+2023-16-26		11:16:58	 f304cfdf-748a-4742-a071-70ad7f65749f	 ReferenceError, refreshToken is not defined 
+2023-16-26		11:16:59	 ed33474d-fb76-4b0b-8449-a6636e63ee98	 ReferenceError, refreshToken is not defined 
+2023-17-26		11:17:02	 d61d25ba-b414-4e84-8b61-82584c492d44	 ReferenceError, refreshToken is not defined 
+2023-17-26		11:17:03	 2c0f23ac-9350-497a-8b5a-9891b3d35d7f	 ReferenceError, refreshToken is not defined 
+2023-18-26		11:18:04	 f7145a24-a498-478b-becb-3ca1465cb1ed	 ReferenceError, Cannot access 'cookies' before initialization 
+2023-18-26		11:18:15	 23b97de7-ea92-451b-a0cc-8e756761d86f	 TypeError, callback is not a function 
+2023-18-26		11:18:36	 de31e521-dfc1-4d81-9da2-ed1d8bac25b1	 TypeError, callback is not a function 
+2023-19-26		11:19:29	 30ecf65f-6e0a-48a9-9926-78e20b763435	 TypeError, callback is not a function 
+2023-22-26		11:22:16	 cb9a39a6-f26f-4e1f-9034-501a1f60b9a4	 TypeError, callback is not a function 
+2023-24-26		11:24:01	 d530d52e-a21c-4770-841c-5fa14d663a64	 TypeError, callback is not a function 
+2023-24-26		11:24:58	 27435ed2-d96c-412b-8d8a-83bfdd0a1bd5	 TypeError, callback is not a function 
+2023-26-26		11:26:33	 f65175c2-eefe-45ac-a414-29b8c547f86e	 TypeError, callback is not a function 
+2023-26-26		11:26:34	 97bcf0cf-a4e2-42f9-8613-7df7ce9e94ac	 TypeError, callback is not a function 
+2023-26-26		11:26:46	 dbcdc490-fc37-4f88-9005-b7a103b32e22	 TypeError, callback is not a function 
+2023-27-26		11:27:02	 e7dd0715-d406-4a63-beb1-f3d65b126155	 TypeError, callback is not a function 
+2023-30-26		11:30:00	 861bcd65-a11f-44ef-b3a5-7453fe087934	 TypeError, callback is not a function 
+2023-30-26		11:30:01	 94a30044-6022-4816-afc8-6905a8ed3b65	 TypeError, callback is not a function 
+2023-30-26		11:30:26	 ca2e798d-f4c5-447e-9739-b1e71818e853	 TypeError, callback is not a function 
+2023-30-26		11:30:28	 48908ded-107f-4d52-9572-ede91fb5c64f	 TypeError, callback is not a function 
+2023-30-26		11:30:29	 a0111c6b-2c06-4ea2-b712-8d3a4cb084df	 TypeError, callback is not a function 
+2023-30-26		11:30:30	 1d531ecd-8db5-40b2-91ed-3297c7d516c7	 TypeError, callback is not a function 
+2023-30-26		11:30:31	 60933503-1e17-47b7-87fd-11bc10376b54	 TypeError, callback is not a function 
+2023-30-26		11:30:32	 0192da90-e8ec-4bad-853f-f403f97678b6	 TypeError, callback is not a function 
+2023-30-26		11:30:42	 422b3015-2363-4da9-90a6-f1d226bd96d9	 TypeError, callback is not a function 
+2023-36-26		11:36:16	 5f71ee23-d8df-4efb-8c59-43536a16efc7	 TypeError, callback is not a function 
+2023-38-26		11:38:56	 4427f9b7-0610-4a54-8e4c-70560d56bc70	 Error, Cannot set headers after they are sent to the client 
+2023-38-26		11:38:58	 61946337-aad5-4efd-8afc-08e14d35eada	 Error, Cannot set headers after they are sent to the client 
+2023-38-26		11:38:59	 2c7f8824-7ab6-47f7-97cd-2537c19bbb82	 Error, Cannot set headers after they are sent to the client 
+2023-41-26		11:41:17	 faaae250-fbcb-4bfc-91c4-5c6bbc8e414a	 Error, Cannot set headers after they are sent to the client 
+2023-41-26		11:41:19	 911f1d97-b83a-4e11-be0f-4927b96759d8	 Error, Cannot set headers after they are sent to the client 
+2023-41-26		11:41:20	 8a557640-65e2-43ee-af99-dd67dcb18585	 Error, Cannot set headers after they are sent to the client 
+2023-42-26		11:42:45	 2b207ec9-e827-4e78-a8e8-0f3938243498	 Error, Cannot set headers after they are sent to the client 
+2023-42-26		11:42:46	 ea4815eb-5e0a-4bcb-b5b2-9853afa218dd	 Error, Cannot set headers after they are sent to the client 
+2023-42-26		11:42:48	 6441191a-89c1-4cd7-b551-b5ef65932036	 Error, Cannot set headers after they are sent to the client 
+2023-42-26		11:42:48	 51b1a8e7-9c09-4930-b4c3-8b606661ecad	 Error, Cannot set headers after they are sent to the client 
+2023-42-26		11:42:51	 29a2843b-fc88-47d7-be79-90260b0241a2	 Error, Cannot set headers after they are sent to the client 
+2023-44-26		11:44:33	 047dd1d1-3b75-4495-ad7d-708b3f7ae7c6	 Error, Cannot set headers after they are sent to the client 
+2023-44-26		11:44:34	 bcbe3e42-2b05-476d-8738-55029aedaa87	 Error, Cannot set headers after they are sent to the client 
+2023-44-26		11:44:38	 5529ff77-9e14-464a-93b5-8557ceaa80b5	 Error, Cannot set headers after they are sent to the client 
+2023-47-26		11:47:01	 decedfa3-e548-41cd-9f7a-63ffb5716ad0	 Error, Cannot set headers after they are sent to the client 
+2023-48-26		11:48:15	 1b7bc9e1-2967-4c11-b35a-530f139576a2	 Error, Cannot set headers after they are sent to the client 
+2023-48-26		11:48:30	 80b03455-063f-40eb-8a77-62f6e76bbc6b	 Error, Cannot set headers after they are sent to the client 

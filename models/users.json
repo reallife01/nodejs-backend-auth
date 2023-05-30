@@ -1,0 +1,20 @@
+[
+  {
+    "username": "ola",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$OCDE0mr8sTtxxmdXKvLtA.UzkOb3bccLm0RuUluFxP46AoNWLsJ1S",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im9sYSIsImlhdCI6MTY4NTA4OTI1NSwiZXhwIjoxNjg1MTc1NjU1fQ.f5VKjaWr6EJqr3n0M8VUnVAWhHgxmxZ1l2YqL8n3mb8"
+  },
+  {
+    "username": "shola",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$dT37nOlSq8Aag4HAwSiFse2lWz6BeHNTirIWWbgHWTR/dplfCjfge",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNob2xhIiwiaWF0IjoxNjg1MDk2MzQzLCJleHAiOjE2ODUxODI3NDN9.5tpH-3M29r2lkj5bW-rWW3ai84P-_AaZPYZl3PotKQA"
+  },
+  {
+    "username": "banky",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$cKKhEvwPk46Bn7FhAYT6DONpkQqs/wOGpYvzThetoEGrczTd3TtCS",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImJhbmt5IiwiaWF0IjoxNjg1MDk4MTAxLCJleHAiOjE2ODUxODQ1MDF9.HU--bhdoNeLulFhqWVDnGjfjHagWf2Gvh57EXf2I6U4"
+  }
+]

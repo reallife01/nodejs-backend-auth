@@ -1,0 +1,30 @@
+[
+   
+        {
+            "id" : 1, 
+            "firstnmae": "Akeem",
+            "lastname" : "Balogun"
+
+            
+        },
+        {
+            
+            "id" : 2, 
+            "firstnmae": "Abu",
+            "lastname" : "Eba"
+        },
+        {
+        
+            "id" : 3, 
+            "firstnmae": "Matex",
+            "lastname" : "Concept"
+            
+        },
+        {
+            "id" : 4, 
+            "firstnmae": "Rokeeba",
+            "lastname" : "Oladimeji"
+        }
+    
+    
+    ]
